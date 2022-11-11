@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Wong</h1>
 <h3 align="center">A Civil Engineer discovering the Data Science World</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, SQL & Tableau**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gabwst17](https://github.com/gabwst17)
 
